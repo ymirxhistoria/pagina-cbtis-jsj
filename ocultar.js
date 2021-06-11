@@ -1,0 +1,10 @@
+$(document).ready(function(){
+	$("#ocultar").click(function(evento){
+		evento.preventDefault();
+		$("#ima").hide(4000);
+	});
+	$("#mostrar").click(function(evento){
+		evento.preventDefault();
+		$("#ima").show(3000);
+	});
+});

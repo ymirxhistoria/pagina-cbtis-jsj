@@ -1,0 +1,44 @@
+body{
+	background-color: black;
+}
+#uno{
+	background-color: #cceeff;
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width: 1350px;
+	height: 30px;
+}
+#dos{
+	background-color: #7b68ee;
+	margin-left: 0px;
+	margin-right: 40px;
+	height: 500px;
+	width: 1400px;
+}
+#primero{
+	background-color: #5f9ea0;
+	width: 980px;
+	height: 480px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#segundo{
+	background-color: #4682b4;
+	width: 370px;
+	height: 480px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#tres{
+	background-color: #afeeee;
+	height: 40px;
+	width: 1400px;
+}

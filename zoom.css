@@ -1,0 +1,22 @@
+body{
+	background-color: red;
+}
+div{
+	text-align: center;
+}
+#titulos{
+	color: #9a9a9a;
+	font-size: 1.8em;
+}
+.zoom{
+	transition:width 2s,height 2s,transforms 2s;
+	-moz-transition:width 2s,height 2s,-webkit-transforms 2s;
+	-webkit-transition:width 2s,height 2s,-webkit-transforms 2s;
+	-o-transition:width 2s, height 2s,-o-transforms 2s;
+}
+.zoom:hover{
+	transform:scale(2);
+	-moz-transform:scale(2);
+	-webkit-transform:scale(2);
+	-o-transform:scale(2);
+}

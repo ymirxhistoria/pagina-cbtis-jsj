@@ -1,0 +1,64 @@
+body{
+	background-color: black;
+}
+#uno{
+	background-color: #cceeff;
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	height: 30px;
+	width: 1350px;
+}
+#dos{
+	background-color: #7b68ee;
+	margin-left: 0px;
+	margin-right: 40px;
+	height: 500px;
+	width: 1400px;
+}
+#primero{
+	background-color: #00ced1;
+	width: 320px;
+	height: 480px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#segundo{
+	background-color: #5f9ea0;
+	width: 320px;
+	height: 480px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#tercero{
+	background-color: #4682b4;
+	width: 320px;
+	height: 480px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#cuarto{
+	background-color: #7fffd4;
+	width: 320px;
+	height: 480px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#tres{
+	background-color: #afeeee;
+	height: 40px;
+	width: 1400px;
+}

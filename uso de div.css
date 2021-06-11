@@ -1,0 +1,56 @@
+body{
+	background-color: black;
+}
+#uno{
+background-color: #98fb98; 
+margin-left: 0px;
+margin-right: 10px;
+margin-top: 25px;
+margin-bottom: 25px;
+height: 40px;
+width: 1400px;
+
+}
+#dos{
+	background-color: #b0c4de;
+	margin-left: 0px;
+	margin-right: 60px;
+	height: 500px;
+	width: 1400px;
+}
+#primerdos{
+	background-color: #7b68ee;
+	width: 430px;
+	height: 450px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+
+}
+#segundodos{
+	background-color: #deb887;
+	width: 430px;
+	height: 450px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+#tercerdos{
+	background-color: #ba55d3;
+	width: 430px;
+	height: 450px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+#tres{
+	background-color: #00bfff;
+	height: 40px;
+	width: 1400px;
+}

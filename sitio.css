@@ -1,0 +1,144 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: helvetica Neue;
+	background-color: #afeeee;
+}
+div#centro{
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	height: 20px;
+	width: 800px;
+	float: center;
+	text-align: center;
+}
+#titulo{
+	text-align: center;
+
+}
+#im{
+	float: left;
+	margin-right: 860px;
+	margin-left: 10px;
+
+}
+#img{
+	margin-right: 20px;
+}
+
+
+header{
+	margin: 100px auto;
+	width: 1200px;
+	height: 230px;
+	background-color: red;
+}
+
+div.contenedor{
+	width: 200px;
+	height: 230px;
+	float: left;
+	-webkit-transition: box-shadow .4s;
+
+}
+div#uno{
+	background-color: #66cdaa;
+
+}
+div#dos{
+	background-color: #20b2aa;
+}
+div#cuatro{
+background-color: #008080; 
+}
+div#tres{
+	background-color: #5f9ea0;
+}
+div#cinco{
+	background-color: #4682b4;
+}
+div#seis{
+	background-color: #1e90ff;
+}
+
+img.icon{
+	display: block;
+	margin: 50px;
+	background-color: rgba(255,255,255,.15);
+	width: 40px;
+	padding: 20px;
+	-webkit-border-radius: 50%; 
+	-webkit-box-shadow: 0px 0px 0px 30px rgba(255,255,255,0);
+	-webkit-transition: box-shadow .4s;
+
+}
+
+p.texto{
+	font-size: 1.2em;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	opacity: .6;
+	-webkit-transition:padding-top .3s;
+
+}
+div.contenedor:hover{
+	height: 250px;
+
+
+}
+div.contenedor:hover p.texto{
+	padding-top: 30px;
+	opacity: 1;
+}
+div.contenedor:hover img.icon{
+	-webkit-box-shadow: 0px 0px 0px 0px rgba(255,255,255,.6);
+}
+#color{
+	margin left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	height: 40px
+	width: 1200px;
+	text-align: center;
+}
+#segundo{
+	margin: 100px auto;
+	width: 1200px;
+	height: 150px;
+	background-color: red;
+}
+div.informacion{
+	width: 600px;
+	height: 150px;
+	float: left;
+}
+#mi{
+	background-color: #ffefd5;
+	text-align: center;
+}
+#vi{
+	background-color: #ffdab9;
+	text-align: center;
+}
+#direccion{
+	width: 1000px;
+	height: 50px;
+	background-color: #d8bfd8;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 180px;
+	margin-right: 10px;
+	text-align: center;
+	float: center;
+}
+
+
+.zoom:hover{
+	transform:scale(2);
+	-moz-transform:scale(2);
+	-webkit-transform:scale(2);
+	-o-transform:scale(2);
